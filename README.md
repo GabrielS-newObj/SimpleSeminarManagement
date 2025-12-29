@@ -10,4 +10,4 @@
 \
 \
 \
-_Created using **terminal** as the normal stdout_
+**_Created using **terminal** as the normal stdout_
